@@ -51,8 +51,8 @@ Given the well-established link between poverty and crime—and considering that
 <img src="Charts/Count_of_offence_by_MCI_Category.png" position="relative" width="500"/>
 <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" position="relative" width="500"/>
 <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png" width="500"/>
-<img src="Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="500"/>
-<img src="Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="500"/>
+<img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="500"/>
+<img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="500"/>
 <img src="Charts/Count_of_offence_by_MCI_Category_Offence.png" width="500"/>
 <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="500"/>
 
