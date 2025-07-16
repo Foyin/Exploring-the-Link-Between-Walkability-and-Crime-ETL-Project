@@ -39,7 +39,7 @@ Given the well-established link between poverty and crime—and considering that
 6. Queried the data using **AWS Athena**.  
 7. Visualized findings with **Amazon QuickSight**.
 
-##💡 Some Key Insights I Found:
+## 💡 Some Key Insights I Found:
 1. Assaults are higher in places with higher walk scores, potentially due to higher population density.
 2. Auto thefts are more common in more car dependent areas.
 3. In apartments, residential, commercial spaces assaults are higher as walk scores go up. But in residential spaces, auto thefts go up as walk scores go down. That is not the case for apartments or commercial spaces.
@@ -58,13 +58,13 @@ Given the well-established link between poverty and crime—and considering that
   <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="500"/>
 </div>
 
-#📊 ANOVA Across Crime Categories (MCI_CATEGORY)
+# 📊 ANOVA Across Crime Categories (MCI_CATEGORY)
  - Purpose: Check if the average walk scores differ significantly between types of crime.
  - F-statistic: 689.64
  - p-value: < 0.001
  - ✅ Interpretation: Strong evidence that different crime types are associated with significantly different walk score distributions — the null hypothesis (that they’re the same) is rejected.
 
-#🔝 Top Correlations (Positive and Negative)
+### 🔝 Top Correlations (Positive and Negative)
 1. Theft Over
 Correlation: +0.28 (moderate positive)
 P-value: Very low (statistically significant)
@@ -90,7 +90,7 @@ Fewer witnesses in suburban environments.
 Correlation: ~0.00 to +0.02 (very weak)
 Interpretation: Assault appears to be evenly distributed across different walkability levels. No strong evidence linking walkability to assault rates.
 
-#🧠 Insight
+###🧠 Insight
 This supports the idea that:
 Walkability may reduce certain crimes (like break-ins and auto thefts),
 But increase others (like theft over, robbery), possibly due to population density, anonymity in crowds, and concentration of valuables.
@@ -107,7 +107,7 @@ But increase others (like theft over, robbery), possibly due to population densi
  - Share of total: ~19.1% of all crimes occurred in or around houses
  So yes, most crimes happen elsewhere — not near houses.
 
-#🚶 Walkability Comparison
+##🚶 Walkability Comparison
  - Average walkscore where crimes happen near houses: 62.29
  - Average walkscore for all other premise types: 77.51
  - T-test p-value: < 0.001
