@@ -100,7 +100,7 @@ But increase others (like theft over, robbery), possibly due to population densi
   <img src="Charts/Top_ten_premises_by_crime_count.png" width="500"/>
   <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="500"/>
   <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
-  <img src="Charts/CCrime_count_vs_Average_Walkscore_by_neighbourhood.png" width="500"/>
+  <img src="Charts/Crime_count_vs_Average_Walkscore_by_neighbourhood.png" width="500"/>
   <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
   <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png" width="500"/>
 </div>
