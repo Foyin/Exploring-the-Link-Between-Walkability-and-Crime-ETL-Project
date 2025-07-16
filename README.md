@@ -96,7 +96,6 @@ Walkability may reduce certain crimes (like break-ins and auto thefts),
 But increase others (like theft over, robbery), possibly due to population density, anonymity in crowds, and concentration of valuables.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Charts/Top_ten_premises_by_crime_count.png" width="500"/>
   <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
   <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
   <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png" width="500"/>
@@ -118,4 +117,5 @@ Interpretation:
 
 <div style="display: flex; justify-content: space-between;">
     <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="500"/>
+    <img src="Charts/Top_ten_premises_by_crime_count.png" width="500"/>
 </div>
