@@ -49,8 +49,8 @@ Given the well-established link between poverty and crime—and considering that
 7. So according to this data the safest place to live is in a house in a place with a high walk score.
 
 <div style="display: flex; justify-content: space-between; width: 400px;">
-  <img src="Charts/Count_of_offence_by_MCI_Category.png" position="relative"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" position="relative"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category.png" width="50%"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png"/>
