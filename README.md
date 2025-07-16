@@ -48,6 +48,8 @@ Given the well-established link between poverty and crime—and considering that
 6. Overall assaults are the most common type of crime in Toronto. Toronto has the highest population density in Ontario so the effects of population density could be overrepresented in this analysis.
 7. So according to this data the safest place to live is in a house in a place with a high walk score.
 
+<img width="400"/>
+
 ![Charts](Charts/Count_of_offence_by_MCI_Category.png)
 !(Charts)[Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png]
 !(Charts)[Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png]
