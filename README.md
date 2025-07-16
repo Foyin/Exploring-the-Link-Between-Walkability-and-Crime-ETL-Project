@@ -101,13 +101,13 @@ But increase others (like theft over, robbery), possibly due to population densi
   <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png" width="500"/>
 </div>
 
-##🏠 Crimes in or Around Houses
+## 🏠 Crimes in or Around Houses
  - Crimes near houses: 8,125
  - Total crimes in dataset: 42,460
  - Share of total: ~19.1% of all crimes occurred in or around houses
  So yes, most crimes happen elsewhere — not near houses.
 
-##🚶 Walkability Comparison
+### 🚶 Walkability Comparison
  - Average walkscore where crimes happen near houses: 62.29
  - Average walkscore for all other premise types: 77.51
  - T-test p-value: < 0.001
