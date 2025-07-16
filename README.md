@@ -48,7 +48,7 @@ Given the well-established link between poverty and crime—and considering that
 6. Overall assaults are the most common type of crime in Toronto. Toronto has the highest population density in Ontario so the effects of population density could be overrepresented in this analysis.
 7. So according to this data the safest place to live is in a house in a place with a high walk score.
 
-<div style="display: flex; justify-content: space-between; width: 400;">
+<div style="display: flex; justify-content: space-between; width: 50%;">
   <img src="Charts/Count_of_offence_by_MCI_Category.png" position="relative"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" position="relative"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png"/>
@@ -95,7 +95,7 @@ This supports the idea that:
 Walkability may reduce certain crimes (like break-ins and auto thefts),
 But increase others (like theft over, robbery), possibly due to population density, anonymity in crowds, and concentration of valuables.
 
-<div style="display: flex; justify-content: space-between; width: 400;">
+<div style="display: flex; justify-content: space-between; width: 50%;">
   <img src="Charts/MCI_category_Walkscore_regression.png"/>
   <img src="Charts/MCI_category_Walkscore_regression.png"/>
   <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png"/>
@@ -115,7 +115,7 @@ But increase others (like theft over, robbery), possibly due to population densi
 Interpretation:
  Crimes near houses are much more likely to occur in less walkable areas. This means you can significantly reduce the overall chances of a crime occurring against you by living in a house in a place with a high walk score.
 
-<div style="display: flex; justify-content: space-between; width: 400;">
+<div style="display: flex; justify-content: space-between; width: 50%;">
     <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png"/>
     <img src="Charts/Top_ten_premises_by_crime_count.png"/>
 </div>
