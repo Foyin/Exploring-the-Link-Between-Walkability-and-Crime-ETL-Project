@@ -48,6 +48,19 @@ Given the well-established link between poverty and crime—and considering that
 6. Overall assaults are the most common type of crime in Toronto. Toronto has the highest population density in Ontario so the effects of population density could be overrepresented in this analysis.
 7. So according to this data the safest place to live is in a house in a place with a high walk score.
 
+!(Charts)[Charts/Count_of_offence_by_MCI_Category.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_Offence.png]
+!(Charts)[Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png]
+
+
+
+
+
+
 #📊 ANOVA Across Crime Categories (MCI_CATEGORY)
  - Purpose: Check if the average walk scores differ significantly between types of crime.
  - F-statistic: 689.64
@@ -97,4 +110,5 @@ But increase others (like theft over, robbery), possibly due to population densi
  - T-test p-value: < 0.001
 ✅ Statistically significant difference
 Interpretation:
- Crimes near houses are much more likely to occur in less walkable areas. This means you can significantly reduce the overall chances of a crime occurring against you by living in a house in a place with a high walk score. 
+ Crimes near houses are much more likely to occur in less walkable areas. This means you can significantly reduce the overall chances of a crime occurring against you by living in a house in a place with a high walk score.
+
