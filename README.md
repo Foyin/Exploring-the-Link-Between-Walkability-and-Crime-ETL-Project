@@ -1,4 +1,3 @@
-# Exploring-the-Link-Between-Walkability-and-Crime-ETL-Project
 # 🚶‍♂️📊 Exploring the Link Between Walkability and Crime
 
 I’ve always been interested in creating projects that explore how a person can improve their standard of living through simple decisions—without necessarily needing to earn more money. Higher income often leads to a better quality of life, but so can living in a convenient location with easy access to essential amenities and low crime rates.
