@@ -48,14 +48,14 @@ Given the well-established link between poverty and crime—and considering that
 6. Overall assaults are the most common type of crime in Toronto. Toronto has the highest population density in Ontario so the effects of population density could be overrepresented in this analysis.
 7. So according to this data the safest place to live is in a house in a place with a high walk score.
 
-<div style="display: flex; justify-content: space-between; width: 400px;">
-  <img src="Charts/Count_of_offence_by_MCI_Category.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Offence.png" width="50%"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="50%"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="Charts/Count_of_offence_by_MCI_Category.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Offence.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="400"/>
 </div>
 
 # 📊 ANOVA Across Crime Categories (MCI_CATEGORY)
