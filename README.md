@@ -58,10 +58,6 @@ Given the well-established link between poverty and crime—and considering that
   <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="500"/>
 </div>
 
-
-
-
-
 #📊 ANOVA Across Crime Categories (MCI_CATEGORY)
  - Purpose: Check if the average walk scores differ significantly between types of crime.
  - F-statistic: 689.64
@@ -98,6 +94,15 @@ Interpretation: Assault appears to be evenly distributed across different walkab
 This supports the idea that:
 Walkability may reduce certain crimes (like break-ins and auto thefts),
 But increase others (like theft over, robbery), possibly due to population density, anonymity in crowds, and concentration of valuables.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" position="relative" width="500"/>
+  <img src="Charts/Top_ten_premises_by_crime_count.png" position="relative" width="500"/>
+  <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="500"/>
+  <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
+  <img src="Charts/CCrime_count_vs_Average_Walkscore_by_neighbourhood.png" width="500"/>
+  <img src="Charts/MCI_category_Walkscore_regression.png" width="500"/>
+</div>
 
 #🏠 Crimes in or Around Houses
  - Crimes near houses: 8,125
