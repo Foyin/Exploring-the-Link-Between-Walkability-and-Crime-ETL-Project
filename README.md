@@ -51,11 +51,11 @@ Given the well-established link between poverty and crime—and considering that
 <div style="display: flex; justify-content: space-between; width: 400;">
   <img src="Charts/Count_of_offence_by_MCI_Category.png" width="400"/>
   <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category.png" width="400">
-  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png" width="450"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="450"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="450"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Offence.png" width="450"/>
-  <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="450"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_and_Walkscore_Category_2.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Premises_Type.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Location_Category_Walkscore_Category.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Offence.png" width="400"/>
+  <img src="Charts/Count_of_offence_by_MCI_Category_Walkscore_Category.png" width="400"/>
 </div>
 
 # 📊 ANOVA Across Crime Categories (MCI_CATEGORY)
@@ -96,9 +96,9 @@ Walkability may reduce certain crimes (like break-ins and auto thefts),
 But increase others (like theft over, robbery), possibly due to population density, anonymity in crowds, and concentration of valuables.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Charts/MCI_category_Walkscore_regression.png" width="450"/>
-  <img src="Charts/MCI_category_Walkscore_regression.png" width="450"/>
-  <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png" width="450"/>
+  <img src="Charts/MCI_category_Walkscore_regression.png" width="400"/>
+  <img src="Charts/MCI_category_Walkscore_regression.png" width="400"/>
+  <img src="Charts/Top_6_crime_categories_by_correlation_with_walkscore.png" width="400"/>
 </div>
 
 ## 🏠 Crimes in or Around Houses
@@ -116,6 +116,6 @@ Interpretation:
  Crimes near houses are much more likely to occur in less walkable areas. This means you can significantly reduce the overall chances of a crime occurring against you by living in a house in a place with a high walk score.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="450"/>
-    <img src="Charts/Top_ten_premises_by_crime_count.png" width="450"/>
+    <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="400"/>
+    <img src="Charts/Top_ten_premises_by_crime_count.png" width="400"/>
 </div>
