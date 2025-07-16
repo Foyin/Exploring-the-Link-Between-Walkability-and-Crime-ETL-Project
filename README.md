@@ -115,7 +115,7 @@ But increase others (like theft over, robbery), possibly due to population densi
 Interpretation:
  Crimes near houses are much more likely to occur in less walkable areas. This means you can significantly reduce the overall chances of a crime occurring against you by living in a house in a place with a high walk score.
 
-<div style="display: flex; justify-content: space-between;>
-    <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="50%"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="450"/>
     <img src="Charts/Top_ten_premises_by_crime_count.png" width="450"/>
 </div>
