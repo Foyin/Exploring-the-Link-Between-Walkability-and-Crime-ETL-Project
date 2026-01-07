@@ -120,7 +120,7 @@ Interpretation:
     <img src="Charts/Top_ten_premises_by_crime_count.png" width="400"/>
 </div>
 
-## Conclusion an key findings
+## Conclusion and key findings
 Based on 45000+ records of crime data from Toronto in 2022:
 
 1. The safest places to live are in houses in places with a high walk score and apartments in places with a low walk score
@@ -131,4 +131,4 @@ Based on 45000+ records of crime data from Toronto in 2022:
 6. Apartments in places with a low walk score have low overall occurrences of crime but still slightly more assaults than houses in places with a high walk score
 7. Assaults occur more frequently in apartments than houses
    
-My main goal for this project was to see if urban planning, even at the local level, could be used to control for crime in an area. Using Amazon Web Services (AWS) I created a data pipeline to look study the situation better
+My main goal for this project was to see if urban planning, even at the local level, could be used to control for crime in an area. Using Amazon Web Services (AWS) resources like AWS Quicksight, AWS S3, AWS Athena, and AWS Glue I created a data pipeline to look study the situation better
