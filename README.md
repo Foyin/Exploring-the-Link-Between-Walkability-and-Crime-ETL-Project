@@ -119,3 +119,16 @@ Interpretation:
     <img src="Charts/Walkscore_vs_crime_occurence_near_houses_regression.png" width="400"/>
     <img src="Charts/Top_ten_premises_by_crime_count.png" width="400"/>
 </div>
+
+## Conclusion an key findings
+Based on 45000+ records of crime data from Toronto in 2022:
+
+1. The safest places to live are in houses in places with a high walk score and apartments in places with a low walk score
+2. Apartments in places with a high walk scores are most unsafe places to live, with significantly higher rates of assault, and higher levels of breaking and entering than houses in similar places
+3. Houses in places with low walk scores have more auto thefts than apartments in similar places
+4. Robberies were low for both houses and apartments in places with high and low walk scores
+5. Houses in places with a high walk scores have low overall occurrences of crime
+6. Apartments in places with a low walk score have low overall occurrences of crime but still slightly more assaults than houses in places with a high walk score
+7. Assaults occur more frequently in apartments than houses
+   
+My main goal for this project was to see if urban planning, even at the local level, could be used to control for crime in an area. Using Amazon Web Services (AWS) I created a data pipeline to look study the situation better
